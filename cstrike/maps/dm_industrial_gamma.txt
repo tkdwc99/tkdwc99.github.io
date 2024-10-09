@@ -1,0 +1,15 @@
+-----------------------
+***dm_industrial***
+\!/ GAMMA RELEASE \!/
+created by warhawk3407
+-----------------------
+
+Compilation settings :
+BSP  = "Normal"
+Vvis = "Normal"
+Vrad = "Normal"
+HDR = "ON"
+
+This release seem be stable.
+
+Please, help me in my work by feedback and commentaries.
